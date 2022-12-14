@@ -60,11 +60,8 @@ useHead({
           <div class="container">
             <div class="columns is-vcentered">
               <div class="column is-5">
-                <h1 class="title is-1 is-bold">Easier development. Beautiful projects</h1>
-                <h3 class="subtitle is-4 pt-2 light-text">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Isto modo ne
-                  improbos quidem.
-                </h3>
+                <h1 class="title is-1 is-bold">MyFinancesNow Dashboard</h1>
+                <h3 class="subtitle is-4 pt-2 light-text">This is a first try</h3>
                 <div class="buttons">
                   <VButton color="primary" bold rounded raised> Get Started </VButton>
                   <VButton color="primary" outlined bold rounded raised>
